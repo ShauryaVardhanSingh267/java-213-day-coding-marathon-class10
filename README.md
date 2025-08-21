@@ -1,4 +1,4 @@
-# java-exploration-class10
+# java-213-day-coding-marathon-class10
 
 Welcome to my **Class 10 Java Exploration** repository—where I built more advanced programs to deepen my understanding of Java and OOP concepts.
 
